@@ -11,7 +11,7 @@ class GameManager {
     
     // It launches the game, manages the composition of teams and the fight and shows the winner
     func gameLauncher() {
-        print("Welcome to Virtual Fighting of WarcraftLike of the Killing Deaf.")
+        print("Welcome to Virtual Fighting of WarcraftLike of the Killing Death.")
         print("")
         introductionToGame()
         // If condition is true : users have to execute the entire program (they have to give teams their names, choose types of heroes and give their names...).
